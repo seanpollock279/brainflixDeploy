@@ -1,8 +1,8 @@
 import React from 'react';
 import {withRouter, useHistory} from 'react-router-dom';
 import './App.css';
-import Uploader from './Components/Uploader/Uploader';
-import Home from './Components/Home/Home';
+// import Uploader from './Components/Uploader/Uploader';
+// import Home from './Components/Home/Home';
 import Router from './Components/Router/Router';
 import axios from 'axios';
 
